@@ -28,3 +28,12 @@ To view the dashboard, simply click on the link provided above. You will be redi
 2. Use the filters and slicers on the dashboard to explore different data views.
 3. Hover over charts and graphs to see more details.
 4. Click on data points to drill down into the data.
+
+## Reference
+
+This project was inspired by and referenced the following video: [Power BI Dashboard Tutorial](https://youtu.be/j4xlVLgsmNQ?si=lMMVs_iWfOIR4uQp).
+
+
+
+
+
